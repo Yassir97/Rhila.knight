@@ -65,7 +65,7 @@ body {
   line-height: 1.5;
   color: #CFD8DC;
   text-align: left;
-  background-color: #000000; }
+  background-color: #012334; }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
@@ -435,7 +435,7 @@ kbd {
   padding: 0.2rem 0.4rem;
   font-size: 87.5%;
   color: #ffffff;
-  background-color: #263238;
+  background-color: #012334;
   border-radius: 0.25rem; }
   kbd kbd {
     padding: 0;
@@ -1211,7 +1211,7 @@ pre {
   .table tbody + tbody {
     border-top: 4px solid #ECEFF1; }
   .table .table {
-    background-color: #000000; }
+    background-color: #012334; }
 
 .table-sm th,
 .table-sm td {
@@ -1233,10 +1233,10 @@ pre {
   border: 0; }
 
 .table-striped tbody tr:nth-of-type(odd) {
-  background-color: rgba(0, 0, 0, 0.05); }
+  background-color: #012334; }
 
 .table-hover tbody tr:hover {
-  background-color: rgba(0, 0, 0, 0.075); }
+  background-color: #012334; }
 
 .table-primary,
 .table-primary > th,
